@@ -10,7 +10,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class Synchronization {
-	
+	//Adding a comment
 	public int sGlobalSyncTime=30;
 	
 	//AJAX Calls
