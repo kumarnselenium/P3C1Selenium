@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 
 public class EMICalculatorTest {
-
+//comment
 	@Test
 	public void emiCalc() throws InterruptedException
 	{
